@@ -36,5 +36,5 @@ The dataset includes information such as:
 - `images/`: Dashboard screenshots
 
 ## 🙌 Author
-Murali Ganesh  
+Murali Ganesh Seeram
 [LinkedIn Profile](https://www.linkedin.com/in/seeram-murali-ganesh-9a6b62258/)  
